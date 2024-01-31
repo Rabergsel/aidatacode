@@ -1,0 +1,11 @@
+//Hello World example in C#
+Console.WriteLine("Hello World");
+
+//Reading input and echo it in C#
+var input = Console.ReadLine();
+Console.WriteLine(input);
+
+//Adding to defined variables and output the result in C#
+float a = 1f;
+float b = 2F;
+Console.WriteLine($"{a} + {b} = {a+b}");
